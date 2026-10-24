@@ -1,0 +1,6 @@
+{
+  "name": "Scientific Calculator",
+  "description": "Comprehensive scientific calculator supporting advanced math, trigonometry, logarithms, powers, and unit conversions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
